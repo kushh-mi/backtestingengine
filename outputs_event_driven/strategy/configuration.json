@@ -1,0 +1,23 @@
+{
+  "annual_risk_free_rate": 0.0,
+  "commission_bps": 1.0,
+  "data": "artificial_demo",
+  "end": "2025-12-31",
+  "execution_timing": "signal at close, earliest fill at next session open",
+  "fractional_shares": false,
+  "long_window": 200,
+  "max_volume_participation": 0.1,
+  "short_window": 50,
+  "slippage_bps": 1.0,
+  "spread_bps": 3.0,
+  "start": "2010-01-01",
+  "starting_cash": 100000.0,
+  "tickers": [
+    "SPY",
+    "QQQ",
+    "IWM",
+    "EFA",
+    "EEM",
+    "AGG"
+  ]
+}
